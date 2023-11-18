@@ -15,11 +15,7 @@
 	var sleepStartTime;
 	var sleepEndTime;
 	var sleepInterval;
-	var sleepIntervalCounter = 0;
-	var alarmStartTime;
-	var alarmEndTime;
 	var alarmInterval;
-	var alarmIntervalCounter = 0;
 	var isAnimating = false;
 	
 	function cueSound() {

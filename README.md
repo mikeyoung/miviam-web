@@ -1,9 +1,7 @@
 # MiViAm 2.0
 #### Video Demo:  https://youtu.be/mNCxTsWdmJI
 #### Description:
-MiViAm 2.0 is a web app version of the classic and no longer available iOS app "MiViAm".
-
-MiviAm also made a brief appearance as a Chrome App but is no longer available.
+MiViAm 2.0 is a web app version of the classic and no longer available iOS and Chrome apps "MiViAm".
 
 The goal of this project was to make a regular web app that can live in any environment that has any browser.
 
